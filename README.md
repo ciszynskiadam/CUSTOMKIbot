@@ -8,4 +8,4 @@ CUSTOMKIbot służy obsłudze autorskiego projektu do gry ze znajomymi w League 
 
 Projekt nie był tworzony z myślą o udostępnianiu go do użytku publicznego, a zatem nie obsługuje błędnie wpisanych argumentów do komend, różnego rodzaju wyjątków, jak i nie jest możliwym w jego aktualnym wydaniu, by zahostować go w internecie na użytek wielu serwerów. Udostępnione pliki przedstawiają stan 'wip' projektu, który mam zamiar ewoluować w wolnym czasie.
 
-Do uruchomienia niezbędny jest zainstalowany język Python oraz moduły: os, discord, random, dotenv, shutil.
+Do uruchomienia niezbędny jest zainstalowany język Python oraz moduły: os, discord, random, dotenv, shutil. Należy wypakować foldery z pliku Foldery.zip i umieścić je w katalogu z plikiem CUSTOMKIbot.py.
