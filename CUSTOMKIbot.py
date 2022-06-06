@@ -1,3 +1,7 @@
+"""
+@author: Adam Ciszyński
+"""
+
 from cgitb import text
 import os, discord, CUSTOMKIbot_functions as cst, random
 from dotenv import load_dotenv
