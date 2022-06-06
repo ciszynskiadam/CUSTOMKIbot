@@ -1,5 +1,5 @@
 """
-@author: Adam Ciszyński 261784
+@author: Adam Ciszyński
 """
 
 import random, shutil, os
